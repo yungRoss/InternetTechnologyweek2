@@ -1,3 +1,4 @@
+
 var videos = document.getElementsByClassName('video');
 if (navigator.mediaDevices && navigator.mediaDevices.getUserMedia)  {
 
